@@ -4,7 +4,7 @@ GitHub練習用
 GitHubの練習用リポジトリです。
 
 ##メンバー
-*dragonta2
+* dragonta2
 
 ##ファイル構成
 
